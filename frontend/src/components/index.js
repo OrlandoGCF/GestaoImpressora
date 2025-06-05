@@ -1,0 +1,1 @@
+export { Impressora } from "./Impressora"
